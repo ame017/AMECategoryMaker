@@ -115,5 +115,5 @@ static char * isAMEKey = "isAMEKey";
 ![](Display/binding.png)<br>
 
 ## Trouble Shooting
-If your Xcode is 8.0+.<br>
+If your Xcode is 8.0+ but can not use<br>
 Please install macOS Sierra (version 10.12) if your macOS is 10.11.<br>
