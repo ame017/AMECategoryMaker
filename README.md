@@ -111,7 +111,7 @@ static char * isAMEKey = "isAMEKey";
 1. [Download](Product/AMECategoryMaker.zip)<br>
 2. Enable this plug-in in setting<br>
 ![](Display/extensionUse.png)<br>
-3. You can Bind shortcuts in Xcode setting (shift + G)<br>
+3. You can Bind shortcuts in Xcode setting <br>
 ![](Display/binding.png)<br>
 
 ## Trouble Shooting
