@@ -1,5 +1,5 @@
 # AMECategoryMaker
-A category property Maker without resigin<br>
+A category property maker without resigin<br>
 ![](Display/ACM-introduce.png)
 
 ##### ![cn](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/China.png) Chinese (Simplified): [中文说明](README_chs.md)
