@@ -104,7 +104,7 @@ static char * isAMEKey = "isAMEKey";
 
 ![](Display/category-gif.gif)
 
-## Installation
+## 安装说明
 #### Xcode8.0+
 1. [点我下载本扩展](Product/AMECategoryMaker.zip)<br>
 2. 在系统偏好设置-扩展中打开本插件(如图)<br>
@@ -112,6 +112,6 @@ static char * isAMEKey = "isAMEKey";
 3. 你可以自己设置一个快捷键 <br>
 ![](Display/binding.png)<br>
 
-## Trouble Shooting
+## 一些提示
 如果您的Xcode版本是 8.0+但是无法使用<br>
 请安装macOS Sierra (version 10.12)<br>
