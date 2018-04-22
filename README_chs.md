@@ -115,3 +115,7 @@ static char * isAMEKey = "isAMEKey";
 ## 一些提示
 如果您的Xcode版本是 8.0+但是无法使用<br>
 请安装macOS Sierra (version 10.12)<br>
+
+## 其他项目推荐
+[AMEGetterMaker](https://github.com/ame017/AMEGetterMaker) <br>
+一个无需resign Xcode的懒加载插件
