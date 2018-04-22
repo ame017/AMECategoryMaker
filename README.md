@@ -117,3 +117,7 @@ static char * isAMEKey = "isAMEKey";
 ## Trouble Shooting
 If your Xcode is 8.0+ but can not use<br>
 Please install macOS Sierra (version 10.12) if your macOS is 10.11.<br>
+
+## Other project recommendations
+[AMEGetterMaker](https://github.com/ame017/AMEGetterMaker) <br>
+A lazyload getter maker without resign for Xcode
