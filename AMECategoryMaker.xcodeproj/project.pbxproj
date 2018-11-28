@@ -410,7 +410,7 @@
 				CODE_SIGN_ENTITLEMENTS = AMECategoryMaker/AMECategoryMaker.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 9G7Z8B62GL;
+				DEVELOPMENT_TEAM = HH594MAK5D;
 				INFOPLIST_FILE = AMECategoryMaker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -428,7 +428,7 @@
 				CODE_SIGN_ENTITLEMENTS = AMECategoryMaker/AMECategoryMaker.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 9G7Z8B62GL;
+				DEVELOPMENT_TEAM = HH594MAK5D;
 				INFOPLIST_FILE = AMECategoryMaker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -445,7 +445,7 @@
 				CODE_SIGN_ENTITLEMENTS = CategoryMaker/CategoryMaker.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 9G7Z8B62GL;
+				DEVELOPMENT_TEAM = HH594MAK5D;
 				INFOPLIST_FILE = CategoryMaker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -465,7 +465,7 @@
 				CODE_SIGN_ENTITLEMENTS = CategoryMaker/CategoryMaker.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 9G7Z8B62GL;
+				DEVELOPMENT_TEAM = HH594MAK5D;
 				INFOPLIST_FILE = CategoryMaker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
